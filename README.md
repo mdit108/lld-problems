@@ -1,4 +1,4 @@
-# LLD Practice
+# LLD Problems
 
 My low-level design learning journal: common design problems, working implementations, and the reasoning behind each solution.
 
@@ -7,7 +7,7 @@ My low-level design learning journal: common design problems, working implementa
 | # | Problem | Language | Status |
 | --- | --- | --- | --- |
 
-The first problem will be added with its initial coding snippet.
+| 001 | [Parking Lot](problems/001-parking-lot/README.md) | Java | Initial solution reviewed; behavioral checks pass |
 
 ## Workflow
 
