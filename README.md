@@ -7,8 +7,8 @@ My low-level design learning journal: common design problems, working implementa
 | # | Problem | Language | Status |
 | --- | --- | --- | --- |
 | 001 | [Parking Lot](problems/001-parking-lot/README.md) | Java | Initial solution reviewed; behavioral checks pass |
-
 | 002 | [Cache](problems/002-cache/README.md) | Java | Initial solution reviewed; LRU/FIFO behavioral checks pass |
+| 003 | [BookMyShow](problems/003-bookmyshow/README.md) | Java | Initial solution reviewed; seat-locking checks pass |
 
 ## Workflow
 
